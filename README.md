@@ -17,7 +17,7 @@ To switch to:
 It is too tedious for me to switch themes in Windows 10, so I made this simple project to achieve that.  
 
 ## Antivirus conflicts
-Some antivirus providers might detect this app as malware, and the only reason behind that is - it adds files into the C:\System32 directory. The project is open source for anyone to look at the code. Rest assured, this project is not infected with any sort of malware and the antivirus triggers can be triggered as false positives.
+Some antivirus providers might detect this app as malware, and the only reason behind that is - it adds files into the C:\System32 directory. The project is open source for anyone to look at the code. Rest assured, this project is not infected with any sort of malware and the antivirus triggers can be treated as false positives.
 
 ## Contributors  
 - [PS2-EXE GUI](https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-GUI-Convert-e7cb69d5)  
